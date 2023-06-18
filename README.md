@@ -1,3 +1,9 @@
+Project Description: 
+- This program can take in a set of pairs of matrices and multiply each pair together using a specified algirithm of either, Strassens Algrithm with no cutoff, Strassens Algirithm with a specified cuttoff, or brute force. This program can also create csv files containing a selected number of pairs of matrices of a selected size. The matricies are filled with random single digit integers. 
+
+Purpose of project: 
+- This was a programming assignment done for my algorithms class. 
+
 How to run:
 1. Create java project with given .java files
 2. Download example CSV files provided that contain a specified number of pairs of matrices. 
